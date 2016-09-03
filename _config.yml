@@ -1,19 +1,4 @@
-name: GridWhat
-favicon: null
-layout_spectrum: 0.0073
 typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -25,4 +10,20 @@ color:
   lightness: 0.2081912998110056
   saturation: 0.4371218776796013
   rhythmicContrast: 0.524949814658612
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.0073
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: GridWhat
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Hello There
 purpose: []
